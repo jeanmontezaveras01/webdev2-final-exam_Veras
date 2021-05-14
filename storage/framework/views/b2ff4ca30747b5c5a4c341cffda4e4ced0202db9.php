@@ -1,0 +1,1 @@
+thank you<?php /**PATH C:\VerasExam\resources\views//thankyou.blade.php ENDPATH**/ ?>
